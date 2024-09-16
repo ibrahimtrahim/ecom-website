@@ -32,3 +32,42 @@ export const slides = [
       bg: "bg-gradient-to-r from-blue-50 to-yellow-50",
     },
   ];
+
+  export const FEATURED_PRODUCTS = [
+    {
+      id: 1,
+      title: "Moroccan Wool Rug",
+      description: "Colorful Soft Carpet, Berber Bohemian Rug",
+      img: "/rug.png",
+      imgcover: "/noir-moroccan-rug.jpg",
+      url: "/",
+      price: "$49",
+    },
+    {
+      id: 2,
+      title: "Moroccan Rug",
+      description: "Colorful Soft Carpet, Berber Bohemian Rug",
+      img: "/noir-moroccan-rug.jpg",
+      imgcover: "/rug.png",
+      url: "/",
+      price: "$49",
+    },
+    {
+      id: 3,
+      title: "Moroccan Black Rug",
+      description: "Colorful Soft Carpet, Berber Bohemian Rug",
+      img: "/rug.png",
+      imgcover: "/noir-moroccan-rug.jpg",
+      url: "/",
+      price: "$49",
+    },
+    {
+      id: 4,
+      title: "Moroccan White Rug",
+      description: "Colorful Soft Carpet, Berber Bohemian Rug",
+      img: "/noir-moroccan-rug.jpg",
+      imgcover: "/rug.png",
+      url: "/",
+      price: "$49",
+    },
+  ];
