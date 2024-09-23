@@ -71,3 +71,54 @@ export const slides = [
       price: "$49",
     },
   ];
+
+  export const CATEGORIES = [
+    {
+      id: 1,
+      title: "Home Decor",
+      img: "/homedecor.png",
+      url: "/",
+    },
+    {
+      id: 2,
+      title: "Furniture",
+      img: "/furniture.png",
+      url: "/",
+    },
+    {
+      id: 3,
+      title: "Lighting",
+      img: "/lighting.png",
+      url: "/",
+    },
+    {
+      id: 4,
+      title: "Organization",
+      img: "/organization.png",
+      url: "/",
+    },
+    {
+      id: 5,
+      title: "Outdoor",
+      img: "/outdoor.png",
+      url: "/",
+    },
+    {
+      id: 6,
+      title: "Home Decor",
+      img: "/homedecor.png",
+      url: "/",
+    },
+    {
+      id: 7,
+      title: "Furniture",
+      img: "/furniture.png",
+      url: "/",
+    },
+    {
+      id: 8,
+      title: "Lighting",
+      img: "/lighting.png",
+      url: "/",
+    },
+  ]
